@@ -3,9 +3,13 @@
  *Prepared By: Daniel Akpan  21/07/2025*
 
 ## 1. Project Overview
-Virtual machines (VMs) are essential tools used to create isolated and virtualized environments that allow multiple operating systems to run on a single physical computer. These environments are valuable for various purposes, such as software testing, malware analysis, and cybersecurity training.
-By completing this exercise, you will develop essential skills in creating and managing virtual machines for various purposes. This exercise prepares you to work in various IT roles, including cybersecurity, where virtual machines are commonly used for malware analysis, penetration testing, and secure software testing.
+Virtual machines (VMs) are critical technologies that enable the creation of isolated, secure, and virtualized computing environments. They allow multiple operating systems to run simultaneously on a single physical machine, improving resource utilization, flexibility, and system management.
 
+VMs are widely used across the IT and cybersecurity industries for activities such as software development and testing, malware analysis, penetration testing, cybersecurity training, and secure application deployment. By providing controlled and independent environments, virtual machines help organizations minimize risks while enhancing operational efficiency.
+
+This project is designed to develop practical skills in the creation, configuration, and management of virtual machines for various professional applications. Through this exercise, learners will gain hands-on experience with virtualization technologies and strengthen their understanding of system administration, security testing, and IT infrastructure management.
+
+Successfully completing this exercise will prepare learners for roles in information technology, cybersecurity, network administration, and related fields where virtualization technologies play a vital role in modern computing environments.
 ## 2. Project Goals
 - The goal is to install a Hypervisor on your computer (host).
 - Set up two virtual machines (Kali Linux and Windows 10) on it.
